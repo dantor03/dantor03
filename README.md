@@ -8,7 +8,7 @@ I'm a **Mathematics & Economics** student passionate about Quantitative Finance,
 - 🛠 **Tech Stack:** Python (PyTorch, Pandas), R, LaTeX.
 
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN_AQUI">
+<a href="https://linkedin.com/in/dantor03">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
