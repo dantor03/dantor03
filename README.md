@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Daniel Torres! 👋
 
-<!--
-**dantor03/dantor03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mathematics & Economics** student passionate about Quantitative Finance, Machine Learning, and Game Theory. currently working as a **Research Fellow at ICMAT**.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Neural Ordinary Differential Equations (NODEs) & Mean Field Games.
+- 💼 **Experience:** Risk Management (Model Validation) at Deutsche Bank, Data Consulting at Savills.
+- 🎓 **Education:** UCM (Madrid) & University of Southampton (UK).
+- 🛠 **Tech Stack:** Python (PyTorch, Pandas), R, LaTeX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://linkedin.com/in/TU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
