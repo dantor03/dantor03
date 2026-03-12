@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Torres! 👋
 
-I'm a **Mathematics & Economics** student passionate about Machine Learning, Quantitative Finance and Game Theory. currently working as a **Undergraduate Research Fellow at ICMAT-CSIC**.
+I'm a **Mathematics & Economics** student passionate about Machine Learning, Quantitative Finance and Game Theory, currently working as a **Undergraduate Research Fellow at ICMAT-CSIC**.
 
 - 🔭 **I’m currently working on:** Neural Ordinary Differential Equations (NODEs) & Mean Field Games.
 - 💼 **Experience:** Risk Management (Model Validation) at Deutsche Bank, Data Consulting at Savills.
