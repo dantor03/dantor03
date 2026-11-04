@@ -1,14 +1,27 @@
-### Hi there, I'm Daniel Torres! 👋
+### Hi, I'm Daniel Torres González 👋
 
-I'm a **Mathematics & Economics** student passionate about Machine Learning, Quantitative Finance and Game Theory, currently working as a **Undergraduate Research Fellow at ICMAT-CSIC**.
+Final-year student of the double degree in **Mathematics & Statistics and Economics** at Universidad Complutense de Madrid.
+I work on optimization, optimal control and machine learning theory, with an eye on quantitative finance.
 
-- 🔭 **I’m currently working on:** Neural Ordinary Differential Equations (NODEs) & Mean Field Games.
-- 💼 **Experience:** Risk Management (Model Validation) at Deutsche Bank, Data Consulting at Savills.
-- 🎓 **Education:** UCM (Madrid) & University of Southampton (UK).
-- 🛠 **Tech Stack:** Python (PyTorch, Pandas), R, LaTeX.
+- 🔭 **Now:** Research Intern in Optimization and ML Theory at **IMDEA Software Institute** (modular convergence proofs for first-order methods; undergraduate thesis).
+- 🧪 **Before:** JAE Intro research fellow at **ICMAT-CSIC** (mean-field Neural ODEs), Quantitative Risk intern at **Deutsche Bank** (Model Validation), Data Management intern at **Savills**.
+- 🎓 **Education:** UCM (Madrid) and University of Southampton (Erasmus exchange year).
+- 🛠 **Tools:** Python (PyTorch, NumPy, SciPy, pandas, scikit-learn), R, Stata, LaTeX.
+
+#### Selected projects
+
+| Project | What it is |
+| --- | --- |
+| [mfnode-pl-verification](https://github.com/dantor03/mfnode-pl-verification) | Numerical verification of stability and local Polyak–Łojasiewicz inequalities for entropic mean-field Neural ODEs (preprint + code). |
+| [node-init-distribution](https://github.com/dantor03/node-init-distribution) | Initializing low-parameter Neural ODEs from the distribution of their trained parameters (preprint + code). |
+| [ai-exposure-spain](https://github.com/dantor03/ai-exposure-spain) | Generative-AI exposure of the Spanish labour market, built from EPA and EES microdata. |
+| [mean-field-game-meeting-problem](https://github.com/dantor03/mean-field-game-meeting-problem) | Finite-difference solver (explicit and implicit) for the Lasry–Lions meeting-time mean field game. |
 
 <p align="left">
 <a href="https://linkedin.com/in/dantor03">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dantor03@ucm.es">
+  <img src="https://img.shields.io/badge/Email-dantor03%40ucm.es-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
