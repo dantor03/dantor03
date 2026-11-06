@@ -14,7 +14,6 @@ I work on optimization, optimal control and machine learning theory, with an eye
 | --- | --- |
 | [mfnode-pl-verification](https://github.com/dantor03/mfnode-pl-verification) | Numerical verification of stability and local Polyak–Łojasiewicz inequalities for entropic mean-field Neural ODEs (preprint + code). |
 | [mfnode-langevin-baselines](https://github.com/dantor03/mfnode-langevin-baselines) | Training mean-field Neural ODEs with Langevin dynamics (pSGLD, Euler–Maruyama) versus explicit MMD and Sinkhorn regularizers, on synthetic and California Housing data. |
-| [node-init-distribution](https://github.com/dantor03/node-init-distribution) | Initializing low-parameter Neural ODEs from the distribution of their trained parameters (preprint + code). |
 | [ai-exposure-spain](https://github.com/dantor03/ai-exposure-spain) | Generative-AI exposure of the Spanish labour market, built from EPA and EES microdata. |
 | [mean-field-game-meeting-problem](https://github.com/dantor03/mean-field-game-meeting-problem) | Finite-difference solver for the Guéant–Lasry–Lions meeting starting time mean field game. |
 
